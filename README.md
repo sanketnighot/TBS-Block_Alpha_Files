@@ -1,4 +1,4 @@
-<h1 align="center">🏫 THE BLOCKCHAIN SCHOOL (SOLIDITY BOOTCAMP) </h1>
+<h1 align="center">🏫 <a href="https://theblockchainschool.io/">THE BLOCKCHAIN SCHOOL</a> <a href="https://soliditybootcamp.theblockchainschool.io/">(SOLIDITY BOOTCAMP)</a> </h1>
 
 <h2 align="center">👬 TEAM ALPHA (α) </h2>
 
