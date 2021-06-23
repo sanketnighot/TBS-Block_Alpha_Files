@@ -8,4 +8,4 @@
 2. [Harsh Diwakar](http://github.com/harshy98 "Harsh Diwakar")
 3. [Chukwuka Akibor](http://github.com/Chukwuka1488 "Chukwuka Akibor")
 4. [Kanad De](https://github.com/CodingwithIITian007 "Kanad De")
-5. Srikanth Naidu
+5. [Srikanth Naidu](https://github.com/srikanthnaidu1234 "Srikanth Naidu")
